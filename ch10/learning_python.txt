@@ -1,0 +1,8 @@
+People use Python for many purposes:
+- to make games, build web applications;
+- solve business problems;
+- develop internal tools at all kinds of interesting companies.
+Python is also used heavily in scientific fields for academic research and applied work.
+One of the most important reasons to use Python is its community, which includes an incredibly diverse and welcoming group of people.
+Having a well-connected and supportive community is critical in helping you solve problems, and the Python community is fully supportive of people like you who are learning Python as your first programming language.
+Python is a great language to learn!

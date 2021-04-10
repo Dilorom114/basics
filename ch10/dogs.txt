@@ -1,0 +1,10 @@
+German Shepherd
+Bulldog
+Chihuahua
+Poodle
+Golden Retriever
+Pug
+Siberian Husky
+Labrador Retriever
+Doberman
+Rottweiler
