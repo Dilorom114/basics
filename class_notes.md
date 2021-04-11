@@ -44,11 +44,11 @@ https://www.wired.com/story/health-fitness-data-privacy/
 	In computer programming and software design, code refactoring is the process of restructuring existing computer code—changing the factoring—without changing its external behavior. Refactoring is intended to improve the design, structure, and/or implementation of the software, while preserving its functionality.
 
 - Pycharm shortcuts: 
-	Autoformating: ctrl + Alt + L based on PEP-8 Style Guide:
+	Autoformatting: ctrl + Alt + L based on PEP-8 Style Guide:
 	https://www.python.org/dev/peps/pep-0008/
 
 
-### What is Data structrues?
+### What is Data structures?
 	In computer science, a data structure is a data organization, management, and storage format that enables efficient access and modification.[1][2][3] More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.
 	
 	A data structure is a particular way of organizing data in a computer so that it can be used effectively.
@@ -170,7 +170,7 @@ print(f"number of {vowels}'s is : {count}")
     - loop through the text
     - create a dictionary for this letters
     - add each letter to the dictionary as a key and count (starting from 0) as a value
-    - every time you add a letter to a dictionary check if dictionary has the same key, if dictionary has a key you increment the valeu
+    - every time you add a letter to a dictionary check if dictionary has the same key, if dictionary has a key you increment the value
     if dictionary does not have you create new element and value = 1
     a: 1+1, d: 1+1, e: 1
 
@@ -227,15 +227,15 @@ Imports:
 
 ```python
 import time
-import functions_pkg.functions_return
-import functions_pkg.functions_return as ft
+import functions.functions_return
+import functions.functions_return as ft
 
 from time import sleep
-from functions_pkg.functions_return import print_formatted_name
+from functions.functions_return import print_formatted_name
 from module_name import function_0, function_1, function_2
 
 from time import *
-from functions_pkg.functions_return import *
+from functions.functions_return import *
 ```
 
 ## 03/28/2021
@@ -317,7 +317,7 @@ Version database or file is present on a local computer. Multiple people cannot 
  
 ### Centralized Version Controls
  
-In CVC, a central repository is maintained where all versions are kept and a user can check out and check-in files from their different computers at any time.
+In CVC, a central repository is maintained where all versions are kept, and a user can check out and check-in files from their different computers at any time.
  
 ![centralizedvcs](data/cetralizedvcs.png)
  
